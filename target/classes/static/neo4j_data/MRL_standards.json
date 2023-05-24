@@ -1,0 +1,3987 @@
+﻿[
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Profenofos",
+        "MRLs(ppm)": 0.5
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Bifen thrin",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Chlorpyrifos",
+        "MRLs(ppm)": 2
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Clothianidin",
+        "MRLs(ppm)": 0.7
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Cypermethrins (including alpha- and zeta- cypermethrin)",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Deltamethrin",
+        "MRLs(ppm)": 5
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Dicofol",
+        "MRLs(ppm)": 40
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Endosulfan",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Etoxazole",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Fenpropathrin",
+        "MRLs(ppm)": 3
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Flubendiamide ",
+        "MRLs(ppm)": 50
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Flufenoxuron ",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Hexythiazox",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Imidadoprid",
+        "MRLs(ppm)": 50
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Indoxacarb",
+        "MRLs(ppm)": 5
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "MstJidObhion",
+        "MRLs(ppm)": 0.5
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Paraquat",
+        "MRLs(ppm)": 0.2
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Permethrin",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Propargite ",
+        "MRLs(ppm)": 5
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Thiamethoxam",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Buprofezin",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "CAC",
+        "Pesticides": "Tolfenpyrad",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "1,1-dichloro-2,2-bis(4-ethylphenyl)ethane (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "1,2-dibromoethane (ethylene dibromide) (F)",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "1,2-dichloroethane (ethylene dichloride) (F)",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "1,3-Dichloropropene",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "1,4-Dimethylnaphthalene",
+        "MRLs(ppm)": ""
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "1-Naphthylacetamide and 1-naphthylacetic acid (sum of 1-naphthylacetamide and 1-naphthylacetic acid and its salts, expressed as 1-naphythlacetic acid)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "1-methylcyclopropene",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "2,4,5-T (sum of 2,4,5-T, its salts and esters, expressed as 2,4,5-T) (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "2,4-D (sum of 2,4-D, its salts, its esters and its conjugates, expressed as 2,4-D)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "2,4-DB (sum of 2,4-DB, its salts, its esters and its conjugates, expressed as 2,4-DB) (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "2,5-dichlorobenzoic acid methylester (sum of 2,5-dichlorobenzoic acid and its ester expressed as 2,5-dichlorobenzoic acid methylester)",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "2-amino-4-methoxy-6-(trifluormethyl)-1,3,5-triazine (AMTT), resulting from the use of tritosulfuron (F)",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "2-naphthyloxyacetic acid",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "2-phenylphenol (sum of 2-phenylphenol and its conjugates, expressed as 2-phenylphenol) (R),(F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "3-decen-2-one",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "6-Benzyladenine",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "8-hydroxyquinoline (sum of 8-hydroxyquinoline and its salts, expressed as 8-hydroxyquinoline)",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Abamectin (sum of avermectin B1a, avermectin B1b and delta-8,9 isomer of avermectin B1a, expressed as avermectin B1a) (R),(F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Acephate",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Acequinocyl",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Acetamiprid (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Acetochlor",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Acibenzolar-S-methyl (sum of acibenzolar-S-methyl and acibenzolar acid (free and conjugated), expressed as acibenzolar-S-methyl)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Aclonifen",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Acrinathrin (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Alachlor",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Aldicarb (sum of aldicarb, its sulfoxide and its sulfone, expressed as aldicarb)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Aldrin and Dieldrin (Aldrin and dieldrin combined expressed as dieldrin) (F)",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Ametoctradin (R),(F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Amidosulfuron (R),(A)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Aminopyralid (sum of aminopyralid, its salts and its conjugates, expressed as aminopyralid) (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Amisulbrom",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Amitraz (amitraz including the metabolites containing the 2,4 -dimethylaniline moiety expressed as amitraz)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Amitrole",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Anilazine",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Anthraquinone (F)",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Aramite (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Asulam",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Atrazine (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Azadirachtin",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Azimsulfuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Azinphos-ethyl (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Azinphos-methyl (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Azocyclotin and Cyhexatin (sum of azocyclotin and cyhexatin expressed as cyhexatin)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Azoxystrobin",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Barban (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Beflubutamid",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Benalaxyl including other mixtures of constituent isomers including benalaxyl-M (sum of isomers)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Benfluralin (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Bensulfuron-methyl",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Bentazone (Sum of bentazone, its salts and 6-hydroxy (free and conjugated) and 8-hydroxy bentazone (free and conjugated), expressed as bentazone) (R)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Benthiavalicarb (Benthiavalicarb-isopropyl(KIF-230 R-L) and its enantiomer (KIF-230 S-D) and its diastereomers(KIF-230 S-L and KIF-230 R-D), expressed as benthiavalicarb-isopropyl) (A)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Benzalkonium chloride (mixture of alkylbenzyldimethylammonium chlorides with alkyl chain lengths of C8, C10, C12, C14, C16 and C18)",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Benzovindiflupyr",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Bicyclopyrone (sum of bicyclopyrone and its structurally related metabolites determined as the sum of the common moieties 2-(2- methoxyethoxymethyl)-6-(trifluoromethyl) pyridine-3-carboxylic acid (SYN503780) and (2-(2-hydroxyethoxymethyl)-6- (trifluoromethyl)pyridine-3-carboxylic acid (CSCD686480), expressed as bicyclopyrone)",
+        "MRLs(ppm)": ""
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Bifenazate (sum of bifenazate plus bifenazate-diazene expressed as bifenazate) (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Bifenox (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Bifenthrin (sum of isomers) (F)",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Biphenyl",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Bispyribac (sum of bispyribac, its salts and its esters, expressed as bispyribac)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Bitertanol (sum of isomers) (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Bixafen (R),(F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Bone oil",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Boscalid (R),(F)",
+        "MRLs(ppm)": 40
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Bromadiolone",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Bromide ion",
+        "MRLs(ppm)": 70
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Bromophos-ethyl (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Bromopropylate (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Bromoxynil and its salts, expressed as bromoxynil",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Bromuconazole (sum of diasteroisomers) (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Bupirimate (R),(F),(A)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Buprofezin (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Butralin",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Butylate",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Cadusafos",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Camphechlor (Toxaphene) (R),(F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Captafol (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Captan (Sum of captan and THPI, expressed as captan) (R)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Carbaryl (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Carbendazim and benomyl (sum of benomyl and carbendazim expressed as carbendazim) (R)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Carbetamide (sum of carbetamide and its S isomer)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Carbofuran (sum of carbofuran (including any carbofuran generated from carbosulfan, benfuracarb or furathiocarb) and 3-OH carbofuran expressed as carbofuran) (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Carbon monoxide",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Carbon tetrachloride",
+        "MRLs(ppm)": ""
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Carboxin (carboxin plus its metabolites carboxin sulfoxide and oxycarboxin (carboxin sulfone), expressed as carboxin)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Carfentrazone-ethyl (sum of carfentrazone-ethyl and carfentrazone, expressed as carfentrazone-ethyl) (R)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Cartap",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlorantraniliprole (DPX E-2Y45) (F)",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlorate (A)",
+        "MRLs(ppm)": 0.05
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlorbenside (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlorbufam (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlordane (sum of cis- and trans-chlordane) (R),(F)",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlordecone (F)",
+        "MRLs(ppm)": 0.02
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlorfenapyr",
+        "MRLs(ppm)": 50
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlorfenson (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlorfenvinphos (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chloridazon (sum of chloridazon and chloridazon-desphenyl, expressed as chloridazon) (R)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlormequat (sum of chlormequat and its salts, expressed as chlormequat-chloride)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlorobenzilate (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chloropicrin",
+        "MRLs(ppm)": "0.025*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlorothalonil (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlorotoluron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chloroxuron (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlorpropham (R),(F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlorpyrifos (F)",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlorpyrifos-methyl (R),(F)",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlorsulfuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlorthal-dimethyl",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlorthiamid",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chlozolinate (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Chromafenozide",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Cinidon-ethyl (sum of cinidon ethyl and its E-isomer)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Clethodim (sum of Sethoxydim and Clethodim including degradation products calculated as Sethoxydim)",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Clodinafop and its S-isomers and their salts, expressed as clodinafop (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Clofentezine (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Clomazone",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Clopyralid",
+        "MRLs(ppm)": 0.5
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Clothianidin",
+        "MRLs(ppm)": 0.7
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Copper compounds (Copper)",
+        "MRLs(ppm)": 40
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Coumaphos",
+        "MRLs(ppm)": ""
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Cyanamide including salts expressed as cyanamide",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Cyantraniliprole",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Cyazofamid",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Cyclanilide (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Cyclaniliprole",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Cycloxydim including degradation and reaction products which can be determined as 3-(3-thianyl)glutaric acid S-dioxide (BH 517-TGSO2) and/or 3-hydroxy-3-(3-thianyl)glutaric acid S-dioxide (BH 517-5-OH-TGSO2) or methyl esters thereof, calculated in total as cycloxydim",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Cyflufenamid (sum of cyflufenamid (Z-isomer) and its E-isomer, expressed as cyflufenamid) (R),(A)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Cyflumetofen",
+        "MRLs(ppm)": ""
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Cyfluthrin (cyfluthrin including other mixtures of constituent isomers (sum of isomers)) (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Cyhalofop-butyl",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Cymoxanil",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Cypermethrin (cypermethrin including other mixtures of constituent isomers (sum of isomers)) (F)",
+        "MRLs(ppm)": 0.5
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Cyproconazole (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Cyprodinil (R),(F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Cyromazine",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "DDT (sum of p,p´-DDT, o,p´-DDT, p-p´-DDE and p,p´-TDE (DDD) expressed as DDT) (F)",
+        "MRLs(ppm)": "0.2*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "DNOC",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dalapon",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Daminozide (sum of daminozide and 1,1-dimethyl-hydrazine (UDHM), expressed as daminozide)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Deltamethrin (cis-deltamethrin) (F)",
+        "MRLs(ppm)": 5
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Denatonium benzoate (sum of denatonium and its salts, expressed as denatonium benzoate)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Desmedipham",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Di-allate (sum of isomers) (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Diazinon (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dicamba",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dichlobenil",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dichlorprop (Sum of dichlorprop (including dichlorprop-P), its salts, esters and conjugates, expressed as dichlorprop) (R)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dichlorvos",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dicloran",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dicofol (sum of p, p´ and o,p´ isomers) (F)",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Didecyldimethylammonium chloride (mixture of alkyl-quaternary ammonium salts with alkyl chain lengths of C8, C10 and C12)",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Diethofencarb",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Difenoconazole",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Diflubenzuron (R),(F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Diflufenican (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Difluoroacetic acid (DFA)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dimethachlor",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dimethenamid including other mixtures of constituent isomers including dimethenamid-P (sum of isomers)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dimethipin",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dimethoate",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dimethomorph (sum of isomers)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dimoxystrobin (R),(A)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Diniconazole (sum of isomers)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dinocap (sum of dinocap isomers and their corresponding phenols expressed as dinocap) (Where only meptyldinocap or its corresponding phenol are detected but none of the other components constituting dinocap (including their corresponding phenols), the MRLs and residue definition of meptyldinocap are to be applied.) (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dinoseb (sum of dinoseb, its salts, dinoseb-acetate and binapacryl, expressed as dinoseb)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dinotefuran",
+        "MRLs(ppm)": ""
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dinoterb (sum of dinoterb, its salts and esters, expressed as dinoterb)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dioxathion (sum of isomers) (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Diphenylamine",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Diquat",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Disulfoton (sum of disulfoton, disulfoton sulfoxide and disulfoton sulfone expressed as disulfoton) (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dithianon",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dithiocarbamates (dithiocarbamates expressed as CS2, including maneb, mancozeb, metiram, propineb, thiram and ziram)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Diuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dodemorph",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Dodine",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "EPTC (ethyl dipropylthiocarbamate)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Emamectin benzoate B1a, expressed as emamectin",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Endosulfan (sum of alpha- and beta-isomers and endosulfan-sulphate expressed as endosulfan) (F)",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Endrin (F)",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Epoxiconazole (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Ethalfluralin",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Ethametsulfuron-methyl",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Ethephon",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Ethion",
+        "MRLs(ppm)": 3
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Ethirimol (R),(F),(A)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Ethofumesate (Sum of ethofumesate, 2-keto–ethofumesate, open-ring-2-keto-ethofumesate and its conjugate, expressed as ethofumesate)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Ethoprophos",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Ethoxyquin (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Ethoxysulfuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Ethylene oxide (sum of ethylene oxide and 2-chloro-ethanol expressed as ethylene oxide) (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Etofenprox (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Etoxazole",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Etridiazole",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Famoxadone (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenamidone",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenamiphos (sum of fenamiphos and its sulphoxide and sulphone expressed as fenamiphos)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenarimol",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenazaquin (F)",
+        "MRLs(ppm)": 9
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenbuconazole (sum of constituent enantiomers)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenbutatin oxide (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenchlorphos (sum of fenchlorphos and fenchlorphos oxon expressed as fenchlorphos)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenhexamid (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenitrothion",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenoxaprop-P",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenoxycarb",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenpicoxamid (R),(F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenpropathrin",
+        "MRLs(ppm)": 2
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenpropidin (sum of fenpropidin and its salts, expressed as fenpropidin) (R),(A)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenpropimorph (sum of isomers) (R),(F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenpyrazamine (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenpyroximate (R),(F),(A)",
+        "MRLs(ppm)": 8
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenthion (fenthion and its oxigen analogue, their sulfoxides and sulfone expressed as parent) (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fentin (fentin including its salts, expressed as triphenyltin cation) (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fenvalerate (any ratio of constituent isomers (RR, SS, RS & SR) including esfenvalerate) (R),(F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fipronil (sum fipronil + sulfone metabolite (MB46136) expressed as fipronil) (F)",
+        "MRLs(ppm)": "0.005*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flazasulfuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flonicamid (sum of flonicamid, TFNA and TFNG expressed as flonicamid) (R)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Florasulam",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Florpyrauxifen-benzyl",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fluazifop-P (sum of all the constituent isomers of fluazifop, its esters and its conjugates, expressed as fluazifop)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fluazinam (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flubendiamide (F)",
+        "MRLs(ppm)": 50
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flucycloxuron (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flucythrinate (flucythrinate including other mixtures of constituent isomers (sum of isomers)) (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fludioxonil (R),(F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flufenacet (sum of all compounds containing the N fluorophenyl-N-isopropyl moiety expressed as flufenacet)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flufenoxuron (F)",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flufenzin",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flumequine",
+        "MRLs(ppm)": ""
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flumetralin (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flumioxazine",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fluometuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fluopicolide",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fluopyram (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fluoride ion",
+        "MRLs(ppm)": 350
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fluoride ion",
+        "MRLs(ppm)": 350
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fluoroglycofene",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fluoxastrobin (sum of fluoxastrobin and its Z-isomer) (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flupyradifurone",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flupyrsulfuron-methyl",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fluquinconazole (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flurochloridone (sum of cis- and trans- isomers) (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fluroxypyr (sum of fluroxypyr, its salts, its esters, and its conjugates, expressed as fluroxypyr) (R),(A)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flurprimidole",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flurtamone",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flusilazole (R),(F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flutianil",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flutolanil (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Flutriafol",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fluvalinate (sum of isomers) resulting from the use of tau-fluvalinate (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fluxapyroxad (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Folpet (sum of folpet and phtalimide, expressed as folpet) (R)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fomesafen",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Foramsulfuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Forchlorfenuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Formetanate: Sum of formetanate and its salts expressed as formetanate (hydrochloride)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Formothion",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fosetyl-Al (sum of fosetyl, phosphonic acid and their salts, expressed as fosetyl)",
+        "MRLs(ppm)": "5.0*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fosthiazate",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Fuberidazole",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Furfural",
+        "MRLs(ppm)": 1
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Glufosinate (sum of glufosinate isomers, its salts and its metabolites 3-[hydroxy(methyl)phosphinoyl]propionic acid (MPP) and N-acetyl-glufosinate (NAG), expressed as glufosinate)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Glyphosate",
+        "MRLs(ppm)": 2
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Guazatine (guazatine acetate, sum of components)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Halauxifen-methyl (sum of halauxifen-methyl and X11393729 (halauxifen), expressed as halauxifen-methyl)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Halosulfuron methyl",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Haloxyfop (Sum of haloxyfop, its esters, salts and conjugates expressed as haloxyfop (sum of the R- and S- isomers at any ratio)) (R),(F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Heptachlor (sum of heptachlor and heptachlor epoxide expressed as heptachlor) (F)",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Hexachlorobenzene (F)",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Hexachlorocyclohexane (HCH), alpha-isomer (F)",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Hexachlorocyclohexane (HCH), beta-isomer (F)",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Hexaconazole",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Hexythiazox (any ratio of constituent isomers) (F)",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Hydrogen cyanide (cyanides expressed as hydrogen cyanide)",
+        "MRLs(ppm)": ""
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Hymexazol",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Imazalil (any ratio of constituent isomers) (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Imazamox (Sum of imazamox and its salts, expressed as imazamox)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Imazapic",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Imazapyr",
+        "MRLs(ppm)": ""
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Imazaquin",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Imazosulfuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Imidacloprid",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Indolylacetic acid",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Indolylbutyric acid",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Indoxacarb (sum of indoxacarb and its R enantiomer) (F)",
+        "MRLs(ppm)": 5
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Iodosulfuron-methyl (sum of iodosulfuron-methyl and its salts, expressed as iodosulfuron-methyl)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Ioxynil (sum of ioxynil and its salts, expressed as ioxynil)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Ipconazole (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Iprodione (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Iprovalicarb",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Isofetamid",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Isoprothiolane",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Isoproturon",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Isopyrazam",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Isoxaben",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Isoxaflutole (sum of isoxaflutole and its diketonitrile-metabolite, expressed as isoxaflutole)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Kresoxim-methyl (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Lactofen",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Lambda-cyhalothrin (includes gamma-cyhalothrin) (sum of R,S and S,R isomers) (F)",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Lenacil",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Lindane (Gamma-isomer of hexachlorocyclohexane (HCH)) (F)",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Linuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Lufenuron (any ratio of constituent isomers) (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "MCPA and MCPB (MCPA, MCPB including their salts, esters and conjugates expressed as MCPA) (R),(F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Malathion (sum of malathion and malaoxon expressed as malathion)",
+        "MRLs(ppm)": 0.5
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Maleic hydrazide",
+        "MRLs(ppm)": "0.5*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Mandestrobin",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Mandipropamid (any ratio of constituent isomers)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Mecarbam",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Mecoprop (sum of mecoprop-p and mecoprop expressed as mecoprop)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Mefentrifluconazole",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Mepanipyrim",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Mepiquat (sum of mepiquat and its salts, expressed as mepiquat chloride)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Mepronil",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Meptyldinocap (sum of 2,4 DNOPC and 2,4 DNOP expressed as meptyldinocap)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Mercury compounds (sum of mercury compounds expressed as mercury)",
+        "MRLs(ppm)": 0.02
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Mesosulfuron-methyl",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Mesotrione",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Metaflumizone (sum of E- and Z- isomers)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Metalaxyl and metalaxyl-M (metalaxyl including other mixtures of constituent isomers including metalaxyl-M (sum of isomers)) (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Metaldehyde",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Metamitron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Metazachlor (Sum of metabolites 479M04, 479M08 and 479M16, expressed as metazachlor) (R)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Metconazole (sum of isomers) (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Methabenzthiazuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Methacrifos",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Methamidophos",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Methidathion",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Methiocarb (sum of methiocarb and methiocarb sulfoxide and sulfone, expressed as methiocarb)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Methomyl",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Methoprene",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Methoxychlor (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Methoxyfenozide (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Methylisothiocyanate (resulting from the use of dazomet or metam)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Metolachlor and S-metolachlor (metolachlor including other mixtures of constituent isomers including S-metolachlor (sum of isomers))",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Metosulam",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Metrafenone (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Metribuzin",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Metsulfuron-methyl",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Mevinphos (sum of E- and Z-isomers)",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Milbemectin (sum of milbemycin A4 and milbemycin A3, expressed as milbemectin)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Molinate",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Monocrotophos",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Monolinuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Monuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Myclobutanil  (sum of  constituent isomers) (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Napropamide (sum  of isomers)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Nicosulfuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Nicotine",
+        "MRLs(ppm)": 0.6
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Nitrofen (F)",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Novaluron (F)",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Omethoate",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Orthosulfamuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Oryzalin (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Oxadiargyl",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Oxadiazon",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Oxadixyl",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Oxamyl",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Oxasulfuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Oxathiapiprolin",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Oxycarboxin",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Oxydemeton-methyl (sum of oxydemeton-methyl and demeton-S-methylsulfone expressed as oxydemeton-methyl)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Oxyfluorfen",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Paclobutrazol (sum of constituent isomers)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Paraffin oil (CAS 64742-54-7)",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Paraquat",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Parathion (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Parathion-methyl (sum of Parathion-methyl and paraoxon-methyl expressed as Parathion-methyl)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Penconazole (sum of constituent isomers) (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pencycuron (sum of pencycuron and pencycuron-PB-amine, expressed as pencycuron) (R),(F),(A)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pendimethalin (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Penflufen (sum of isomers) (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Penoxsulam",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Penthiopyrad",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Permethrin (sum of isomers) (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pethoxamid",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Petroleum oils (CAS 92062-35-6)",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Phenmedipham",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Phenothrin (phenothrin including other mixtures of constituent isomers (sum of isomers)) (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Phenthoate",
+        "MRLs(ppm)": ""
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Phorate (sum of phorate, its oxygen analogue and their sulfones expressed as phorate)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Phosalone",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Phosmet (phosmet and phosmet oxon expressed as phosmet) (R)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Phosphamidon",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Phosphane and phosphide salts (sum of phosphane and phosphane generators (relevant phosphide salts), determined and expressed as phosphane)",
+        "MRLs(ppm)": 0.02
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Phoxim (F)",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Picloram",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Picolinafen",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Picoxystrobin (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pinoxaden",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pirimicarb (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pirimiphos-methyl (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Prochloraz (sum of prochloraz, BTS 44595 (M201-04) and BTS 44596 (M201-03), expressed as prochloraz) (F)",
+        "MRLs(ppm)": "0.15*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Procymidone (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Profenofos (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Profoxydim",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Prohexadione (prohexadione (acid) and its salts expressed as prohexadione-calcium)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Propachlor: oxalinic derivate of propachlor, expressed as propachlor",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Propamocarb (Sum of propamocarb and its salts, expressed as propamocarb) (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Propanil",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Propargite (F)",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Propham",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Propiconazole (sum of isomers) (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Propineb (expressed as propilendiamine)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Propisochlor",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Propoxur",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Propoxycarbazone (propoxycarbazone, its salts and 2-hydroxypropoxycarbazone expressed as propoxycarbazone) (A)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Propyzamide (R),(F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Proquinazid (R),(F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Prosulfocarb",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Prosulfuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Prothioconazole: prothioconazole-desthio (sum of isomers) (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pymetrozine (R)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pyraclostrobin (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pyraflufen-ethyl (Sum of pyraflufen-ethyl and pyraflufen, expressed as pyraflufen-ethyl)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pyrasulfotole",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pyrazophos (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pyrethrins",
+        "MRLs(ppm)": 0.5
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pyridaben (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pyridalyl",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pyridate (sum of pyridate, its hydrolysis product CL 9673 (6-chloro-4-hydroxy-3-phenylpyridazin) and hydrolysable conjugates of CL 9673 expressed as pyridate)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pyrimethanil (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pyriofenone",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pyriproxyfen (F)",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Pyroxsulam",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Quinalphos (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Quinclorac",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Quinmerac",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Quinoclamine",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Quinoxyfen (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Quintozene (sum of quintozene and pentachloro-aniline expressed as quintozene) (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Quizalofop (sum of quizalofop, its salts, its esters (including propaquizafop) and its conjugates, expressed as quizalofop (any ratio of constituent isomers))",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Repellants: tall oil",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Resmethrin (resmethrin including other mixtures of consituent isomers (sum of isomers)) (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Rimsulfuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Rotenone",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Saflufenacil (sum of saflufenacil, M800H11 and M800H35, expressed as saflufenacil) (R)",
+        "MRLs(ppm)": "0.03*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Sedaxane (sum of isomers)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Silthiofam",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Simazine",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Sintofen",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Sodium 5-nitroguaiacolate, sodium o-nitrophenolate and sodium p-nitrophenolate (Sum of sodium 5-nitroguaiacolate, sodium o-nitrophenolate and sodium p-nitrophenolate, expressed as sodium 5-nitroguaiacolate)",
+        "MRLs(ppm)": "0.15*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Spinetoram (sum of spinetoram-J and spinetoram-L) (F),(A)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Spinosad (spinosad, sum of spinosyn A and spinosyn D) (F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Spirodiclofen (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Spiromesifen",
+        "MRLs(ppm)": 50
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Spirotetramat and spirotetramat-enol (sum of), expressed as spirotetramat (R)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Spiroxamine (sum of isomers) (R),(A)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Streptomycin",
+        "MRLs(ppm)": ""
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Sulcotrione (R)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Sulfosulfuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Sulfoxaflor (sum of isomers)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Sulfuryl fluoride",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Sum of diclofop-methyl, diclofop acid and its salts, expressed as diclofop-methyl (sum of isomers)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "TEPP",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Tebuconazole (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Tebufenozide (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Tebufenpyrad (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Tecnazene (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Teflubenzuron (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Tefluthrin (tefluthrin including other mixtures of constituent isomers (sum of isomers)) (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Tembotrione (Sum of parent tembotrione (AE 0172747) and its metabolite M5 (4,6-dihydroxy tembotrione), expressed as tembotrione) (R)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Tepraloxydim (sum of tepraloxydim and its metabolites that can be hydrolysed either to the moiety 3-(tetrahydro-pyran-4-yl)-glutaric acid or to the moiety 3-hydroxy-(tetrahydro-pyran-4-yl)-glutaric acid, expressed as tepraloxydim)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Terbufos",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Terbuthylazine (R),(F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Tetraconazole (F)",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Tetradifon",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Thiabendazole (R)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Thiacloprid",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Thiamethoxam",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Thiencarbazone-methyl",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Thifensulfuron-methyl",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Thiobencarb (4-chlorobenzyl methyl sulfone) (A)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Thiodicarb",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Thiophanate-methyl (R)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Thiram (expressed as thiram)",
+        "MRLs(ppm)": "0.2*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Tolclofos-methyl (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Tolylfluanid (Sum of tolylfluanid and dimethylaminosulfotoluidide expressed as tolylfluanid) (R),(F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Topramezone (BAS 670H)",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Tralkoxydim (sum of the constituent isomers of tralkoxydim)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Tri-allate",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Triadimefon (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Triadimenol (any ratio of constituent isomers)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Triasulfuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Triazophos (F)",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Triazoxide",
+        "MRLs(ppm)": "0.005*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Tribenuron-methyl",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Trichlorfon",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Triclopyr",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Tricyclazole",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Tridemorph (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Trifloxystrobin (R),(F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Triflumezopyrim",
+        "MRLs(ppm)": ""
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Triflumizole: Triflumizole and metabolite FM-6-1(N-(4-chloro-2-trifluoromethylphenyl)-n-propoxyacetamidine), expressed as Triflumizole (R),(F)",
+        "MRLs(ppm)": "0.1*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Triflumuron (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Trifluralin",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Triflusulfuron (6-(2,2,2-trifluoroethoxy)-1,3,5-triazine-2,4-diamine (IN-M7222)) (A)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Triforine",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Trimethyl-sulfonium cation, resulting from the use of glyphosate (F)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Trinexapac (sum of trinexapac (acid) and its salts, expressed as trinexapac)",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Triticonazole",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Tritosulfuron",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Valifenalate",
+        "MRLs(ppm)": "0.02*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Vinclozolin",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Warfarin",
+        "MRLs(ppm)": "0.01*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Ziram",
+        "MRLs(ppm)": "0.2*"
+    },
+    {
+        "Country or organization": "EU",
+        "Pesticides": "Zoxamide",
+        "MRLs(ppm)": "0.05*"
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Acequinocyl",
+        "MRLs(ppm)": 40
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Acetamiprid",
+        "MRLs(ppm)": 50
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Azoxystrobin",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Bifenthrin",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Buprofezin",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Carfentrazone-ethyl",
+        "MRLs(ppm)": ".1"
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Chlorantraniliprole",
+        "MRLs(ppm)": 50
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Chlorfenapyr ",
+        "MRLs(ppm)": 70
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Clothianidin",
+        "MRLs(ppm)": 70
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Cyantraniliprole",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Dicofol: Tea Dried",
+        "MRLs(ppm)": 50
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Dicofol: Tea Instant",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Dinotefuran",
+        "MRLs(ppm)": 50
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Ethiprole",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Etofenprox",
+        "MRLs(ppm)": 5
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Etoxazole",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Fenazaquin",
+        "MRLs(ppm)": 9
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Fenpropathrin",
+        "MRLs(ppm)": 2
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Fenproximate/Fenpyroximate",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Flonicamid",
+        "MRLs(ppm)": 40
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Fluazinam",
+        "MRLs(ppm)": 6
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Flubendiamide",
+        "MRLs(ppm)": 50
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Glyphosate: Tea Dried",
+        "MRLs(ppm)": 1
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Glyphosate: Tea Instant",
+        "MRLs(ppm)": 7
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Propargite",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Propiconazole",
+        "MRLs(ppm)": 4
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Pyriproxyfen",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Spinosad",
+        "MRLs(ppm)": ".02"
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Spiromesifen",
+        "MRLs(ppm)": 40
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Thiamethoxam",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Tolfenpyrad",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "DDT",
+        "MRLs(ppm)": "Banned"
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Lindane",
+        "MRLs(ppm)": "Banned"
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Endosulfan",
+        "MRLs(ppm)": "Aspired - will not be renewed"
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Ethion",
+        "MRLs(ppm)": "Not Registered for ANY use in USA"
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Tetradifon",
+        "MRLs(ppm)": "Not Registered for ANY use in USA"
+    },
+    {
+        "Country or organization": "US",
+        "Pesticides": "Triazophos",
+        "MRLs(ppm)": "Not Registered for ANY use in USA"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "2,2-DPA",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "4-CPA",
+        "MRLs(ppm)": 0.02
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "ABAMECTIN",
+        "MRLs(ppm)": 1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "ACEPHATE",
+        "MRLs(ppm)": 0.2
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "ACEQUINOCYL",
+        "MRLs(ppm)": 40
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "ACETAMIPRID",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "ACRINATHRIN",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "ACYNONAPYR",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "ALANYCARB",
+        "MRLs(ppm)": 5
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "ALDRIN and DIELDRIN",
+        "MRLs(ppm)": 0.01
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "ATRAZINE",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "AZOXYSTROBIN",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "BENALAXYL",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "BENFURACARB",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "BENOMYL (repeated/see CARBENDAZIM, THIOPHANATE, THIOPHANATE-METHYL and BENOMYL)",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "BENSULIDE",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "BENSULTAP(repeated/see CARTAP,THIOCYCLAM and BENSULTAP)",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "BENTAZONE",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "BIFENAZATE",
+        "MRLs(ppm)": 2
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "BIFENTHRIN",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "BILANAFOS (BIALAPHOS)",
+        "MRLs(ppm)": 0.004
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "BIORESMETHRIN",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "BITERTANOL",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "BOSCALID",
+        "MRLs(ppm)": 60
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "BRODIFACOUM",
+        "MRLs(ppm)": 0.001
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "BROMIDE",
+        "MRLs(ppm)": 50
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "BROMOPROPYLATE",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "BUPROFEZIN",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CARBENDAZIM, THIOPHANATE, THIOPHANATE-METHYL and BENOMYL",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CARBOFURAN",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CARBOSULFAN",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CARFENTRAZONE-ETHYL",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CARTAP, THIOCYCLAM and BENSULTAP",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CHLORANTRANILIPROLE",
+        "MRLs(ppm)": 50
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CHLORDANE",
+        "MRLs(ppm)": 0.02
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CHLORFENAPYR",
+        "MRLs(ppm)": 40
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CHLORFLUAZURON",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CHLORMEQUAT",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CHLOROTHALONIL",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CHLORPYRIFOS",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CHLORPYRIFOS-METHYL",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CHROMAFENOZIDE",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CLODINAFOP-PROPARGYL",
+        "MRLs(ppm)": 0.02
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CLOFENTEZINE",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CLOMAZONE",
+        "MRLs(ppm)": 0.02
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CLOTHIANIDIN",
+        "MRLs(ppm)": 50
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "COPPER NONYLPHENOLSULFONATE",
+        "MRLs(ppm)": 0.04
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CYANTRANILIPROLE",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CYCLANILIPROLE",
+        "MRLs(ppm)": 50
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CYCLOXYDIM",
+        "MRLs(ppm)": 0.05
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CYENOPYRAFEN",
+        "MRLs(ppm)": 60
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CYFLUMETOFEN",
+        "MRLs(ppm)": 40
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CYFLUTHRIN",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CYHALOTHRIN",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "CYPERMETHRIN",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DBEDC",
+        "MRLs(ppm)": 0.5
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DCIP",
+        "MRLs(ppm)": 0.2
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DELTAMETHRIN and TRALOMETHRIN",
+        "MRLs(ppm)": 5
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DEMETON-S-METHYL",
+        "MRLs(ppm)": 0.05
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DIAFENTHIURON",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DIAZINON",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DICHLOFLUANID",
+        "MRLs(ppm)": 5
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DICHLORPROP",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DICHLORVOS and NALED",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DICLOMEZINE",
+        "MRLs(ppm)": 0.02
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DIELDRIN (repeated/see ALDRIN and DIELDRIN)",
+        "MRLs(ppm)": 0.01
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DIETHOFENCARB",
+        "MRLs(ppm)": 5
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DIFENOCONAZOLE",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DIFENZOQUAT",
+        "MRLs(ppm)": 0.05
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DIFLUBENZURON",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DIFLUFENZOPYR",
+        "MRLs(ppm)": 0.05
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DIMETHIPIN",
+        "MRLs(ppm)": 0.04
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DIMETHOATE",
+        "MRLs(ppm)": 1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DINOTEFURAN",
+        "MRLs(ppm)": 25
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DIPHENYLAMINE",
+        "MRLs(ppm)": 0.05
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DIQUAT",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DISULFOTON",
+        "MRLs(ppm)": 0.05
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DITHIOCARBAMATES",
+        "MRLs(ppm)": 5
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "DIURON",
+        "MRLs(ppm)": 1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "EMAMECTIN BENZOATE",
+        "MRLs(ppm)": 0.5
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "ENDOSULFAN",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "ETHEPHON",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "ETHION",
+        "MRLs(ppm)": 0.3
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "ETHIPROLE",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "ETHYLENE DIBROMIDE (EDB)",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "ETHYLENE DICHLORIDE",
+        "MRLs(ppm)": 0.02
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "ETOFENPROX",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "ETOXAZOLE",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FENAMIPHOS",
+        "MRLs(ppm)": 0.05
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FENARIMOL",
+        "MRLs(ppm)": 0.05
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FENAZAQUIN",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FENBUCONAZOLE",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FENBUTATIN OXIDE",
+        "MRLs(ppm)": 1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FENITROTHION",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FENOXYCARB",
+        "MRLs(ppm)": 0.05
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FENPROPATHRIN",
+        "MRLs(ppm)": 25
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FENPROPIMORPH",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FENPYROXIMATE",
+        "MRLs(ppm)": 40
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FENTIN",
+        "MRLs(ppm)": 0.02
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FENVALERATE",
+        "MRLs(ppm)": 1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FIPRONIL",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FLAZASULFURON",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FLOMETOQUIN",
+        "MRLs(ppm)": 5
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FLONICAMID",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FLUAZINAM",
+        "MRLs(ppm)": 6
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FLUBENDIAMIDE",
+        "MRLs(ppm)": 50
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FLUCYTHRINATE",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FLUFENOXURON",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FLUOMETURON",
+        "MRLs(ppm)": 0.02
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FLUOROIMIDE",
+        "MRLs(ppm)": 35
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FLUROXYPYR",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FLUVALINATE",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FLUXAMETAMIDE",
+        "MRLs(ppm)": 5
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FOSETYL-ALUMINIUM",
+        "MRLs(ppm)": 0.5
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "FURATHIOCARB",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "GLUFOSINATE",
+        "MRLs(ppm)": 0.3
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "GLYPHOSATE",
+        "MRLs(ppm)": 1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "HEPTACHLOR",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "HEXACHLOROBENZENE",
+        "MRLs(ppm)": 0.02
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "HEXYTHIAZOX",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "HYDROGEN CYANIDE",
+        "MRLs(ppm)": 1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "HYDROGEN PHOSPHIDE",
+        "MRLs(ppm)": 0.01
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "HYMEXAZOL",
+        "MRLs(ppm)": 0.02
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "IMAZALIL",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "IMAZAQUIN",
+        "MRLs(ppm)": 0.05
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "IMAZETHAPYR AMMONIUM",
+        "MRLs(ppm)": 0.05
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "IMIBENCONAZOLE",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "IMIDACLOPRID",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "IMINOCTADINE",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "IPFLUFENOQUIN",
+        "MRLs(ppm)": 90
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "IPRODIONE",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "ISOXATHION",
+        "MRLs(ppm)": 0.5
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "KASUGAMYCIN",
+        "MRLs(ppm)": 3
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "KRESOXIM-METHYL",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "LEPIMECTIN",
+        "MRLs(ppm)": 0.3
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "LINDANE",
+        "MRLs(ppm)": 0.05
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "LINURON",
+        "MRLs(ppm)": 0.02
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "LUFENURON",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "MALEIC HYDRAZIDE",
+        "MRLs(ppm)": 0.2
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "MANDESTROBIN",
+        "MRLs(ppm)": 40
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "MCPA",
+        "MRLs(ppm)": 0.06
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "METHAMIDOPHOS",
+        "MRLs(ppm)": 0.05
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "METHIDATHION",
+        "MRLs(ppm)": 1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "METHOMYL (repeated/see THIODICARB and METHOMYL)",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "METHOXYCHLOR",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "METHOXYFENOZIDE",
+        "MRLs(ppm)": 40
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "METRIBUZIN",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "METYLTETRAPROLE",
+        "MRLs(ppm)": 50
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "MILBEMECTIN",
+        "MRLs(ppm)": 1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "MONOCROTOPHOS",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "MYCLOBUTANIL",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "NALED (repeated/see DICHLORVOS and NALED)",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "NITENPYRAM",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "OMETHOATE",
+        "MRLs(ppm)": 1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "OXOLINIC ACID",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "OXYDEMETON-METHYL",
+        "MRLs(ppm)": 0.05
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PARAQUAT",
+        "MRLs(ppm)": 0.3
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PARATHION-METHYL",
+        "MRLs(ppm)": 0.2
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PENCONAZOLE",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PERMETHRIN",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PHENOTHRIN",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PHENTHOATE",
+        "MRLs(ppm)": 0.02
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PHORATE",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PHOSALONE",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PHOSMET",
+        "MRLs(ppm)": 0.5
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PHOSPHAMIDON",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PHOXIM",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PINDONE",
+        "MRLs(ppm)": 0.001
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PIRIMIPHOS-METHYL",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PROBENAZOLE",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PROCHLORAZ",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PROFENOFOS",
+        "MRLs(ppm)": 0.2
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PROPARGITE",
+        "MRLs(ppm)": 5
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PROPICONAZOLE",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PROPOXUR",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PROTHIOFOS",
+        "MRLs(ppm)": 5
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PYFLUBUMIDE",
+        "MRLs(ppm)": 50
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PYRACLOFOS",
+        "MRLs(ppm)": 5
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PYRACLOSTROBIN",
+        "MRLs(ppm)": 25
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PYRAFLUFEN ETHYL",
+        "MRLs(ppm)": 0.01
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PYRAZOLYNATE",
+        "MRLs(ppm)": 0.02
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PYRETHRINS",
+        "MRLs(ppm)": 3
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PYRIBENCARB",
+        "MRLs(ppm)": 40
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PYRIDABEN",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PYRIFLUQUINAZON",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PYRIMIDIFEN",
+        "MRLs(ppm)": 3
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "PYRIPROXYFEN",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "QUINALPHOS",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "QUINTOZENE",
+        "MRLs(ppm)": 0.05
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "RESMETHRIN",
+        "MRLs(ppm)": 0.2
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "Sec-BUTYLAMINE",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "SILAFLUOFEN",
+        "MRLs(ppm)": 80
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "SIMECONAZOLE",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "SPINETORAM",
+        "MRLs(ppm)": 70
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "SPINOSAD",
+        "MRLs(ppm)": 9
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "SPIRODICLOFEN",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "SPIROMESIFEN",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "SULFENTRAZONE",
+        "MRLs(ppm)": 0.05
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TEBUCONAZOLE",
+        "MRLs(ppm)": 80
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TEBUFENOZIDE",
+        "MRLs(ppm)": 25
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TEBUFENPYRAD",
+        "MRLs(ppm)": 2
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TEBUFLOQUIN",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TEBUTHIURON",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TECNAZENE",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TEFLUBENZURON",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TEFLUTHRIN",
+        "MRLs(ppm)": 0.2
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TERBUFOS",
+        "MRLs(ppm)": 0.005
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TETRACONAZOLE",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TETRADIFON",
+        "MRLs(ppm)": 0.7
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TETRANILIPROLE",
+        "MRLs(ppm)": 80
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "THIABENDAZOLE",
+        "MRLs(ppm)": 0.1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "THIACLOPRID",
+        "MRLs(ppm)": 25
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "THIAMETHOXAM",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "THIOCYCLAM(repeated/see CARTAP,THIOCYCLAM and BENSULTAP)",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "THIODICARB and METHOMYL",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "THIOPHANATE (repeated/see CARBENDAZIM, THIOPHANATE, THIOPHANATE-METHYL and BENOMYL)",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "THIOPHANATE-METHYL (repeated/see CARBENDAZIM, THIOPHANATE, THIOPHANATE-METHYL and BENOMYL)",
+        "MRLs(ppm)": 10
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TOLFENPYRAD",
+        "MRLs(ppm)": 30
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TRALOMETHRIN (repeated/see DELTAMETHRIN and TRALOMETHRIN)",
+        "MRLs(ppm)": 5
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TRIADIMEFON",
+        "MRLs(ppm)": 1
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TRIADIMENOL",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TRICHLORFON",
+        "MRLs(ppm)": 0.5
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TRICLOPYR",
+        "MRLs(ppm)": 0.03
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TRICYCLAZOLE",
+        "MRLs(ppm)": "-"
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TRIDEMORPH",
+        "MRLs(ppm)": 20
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TRIFLOXYSTROBIN",
+        "MRLs(ppm)": 5
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TRIFLUMIZOLE",
+        "MRLs(ppm)": 15
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TRIFLUMURON",
+        "MRLs(ppm)": 0.02
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "TRIFLURALIN",
+        "MRLs(ppm)": 0.05
+    },
+    {
+        "Country or organization": "JAPAN",
+        "Pesticides": "WARFARIN",
+        "MRLs(ppm)": 0.001
+    }
+]

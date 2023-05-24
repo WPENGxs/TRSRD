@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>TRSRD</title>
+    <link rel="icon" href="../img/tea-icon.png"/>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/table.css">
+    <script type="text/javascript" src="../js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="../js/layer.js"></script>
+</head>
+<body id="ikgm">
+<header class="header-banner-index" id="igye">
+    <div class="container-width" id="iiqv">
+        <div class="logo-container" id="i8ie">
+            <div class="logo" id="i37r">TRSRD
+            </div>
+        </div>
+        <nav class="menu" id="iheg">
+            <div class="menu-item" id="is9j"><a href="about">ABOUT</a></div>
+            <div class="menu-item" id="i7z3vb"><a href="download">DOWNLOAD</a></div>
+            <div class="menu-item" id="iqy8be"><a href="browse" id="text-underline">BROWSE</a></div>
+            <div class="menu-item" id="ipqx"><a href="search">SEARCH</a></div>
+            <div class="menu-item" id="i0mf9"><a href="home">HOME</a></div>
+        </nav>
+        <div class="clearfix">
+        </div>
+        <div id="izuuz">Browse &amp; Search Database Data
+        </div>
+        <div class="gjs-row" id="i6r5l">
+            <div class="gjs-cell" id="i3wrg">
+                <select type="text" id="i4bg2">
+                    <option value="PMID">PMID</option>
+                    <option value="Title">Title</option>
+                    <option value="DOI">DOI</option>
+                    <option value="keywords">keywords</option>
+                    <option value="abstract">abstract</option>
+                    <option value="summary">summary</option>
+                    <option value="risk substance category">risk substance category</option>
+                    <option value="research category">research category</option>
+                    <option value="risk substance">risk substance</option>
+                </select>
+                <input type="text" id="i6u7j" placeholder="Enter your keywords"/>
+                <button type="button" class="lead-btu" id="i48og">Search</button>
+                <script type="text/javascript">
+                    $("#i48og").click(function () {
+                        var input_text = $("#i6u7j").val();
+                        var sel_text = $("#i4bg2").val();
+                        var url="";
+
+                        console.log("sel_text:"+sel_text);
+                        console.log("input_text:"+input_text);
+
+                        if($("#it9yj").has("table").length){
+                            $("table").remove();
+                        }
+                        if($("#iga5u").css("text-decoration")===("underline solid rgb(0, 0, 0)")){
+                            url="neo4j_data/data.json";
+                            console.log("Pubmed Research Data underline");
+                            $.ajax({
+                                url: url,
+                                dataType: "json"
+                            }).done(PubmedResearch);
+                        }else if($("#i29g6").css("text-decoration")===("underline solid rgb(0, 0, 0)")){
+                            url="neo4j_data/risk_substance.json";
+                            console.log("Risk Substance Data underline");
+                            $.ajax({
+                                url: url,
+                                dataType: "json"
+                            }).done(RiskSubstance);
+                        }else if($("#m2rs8").css("text-decoration")===("underline solid rgb(0, 0, 0)")){
+                            url="neo4j_data/MRL_standards.json";
+                            console.log("MRL standards underline");
+                            $.ajax({
+                                url: url,
+                                dataType: "json"
+                            }).done(MRLsSearch);
+                        }
+                        function PubmedResearch(data) {
+                            var table = "<table class=\"qgg-table\">";
+                            for (var n = 0; n < data.length; n++) {
+                                if (n === 0) {
+                                    table += "<thead>\n" +
+                                        "        <tr>\n" +
+                                        "          <th>PMID</th>\n" +
+                                        "          <th>Title</th>\n" +
+                                        "          <th>DOI</th>\n" +
+                                        "          <th>keywords</th>\n" +
+                                        "          <th>abstract</th>\n" +
+                                        "          <th>summary</th>\n" +
+                                        "          <th>risk substance category</th>\n" +
+                                        "          <th>research category</th>\n" +
+                                        "          <th>publication date</th>\n" +
+                                        "        </tr>\n" +
+                                        "    </thead>";
+                                    table += "<tbody>";
+                                    table += "     <tr>\n" +
+                                        "          <td>" + data[n]["PMID"] + "</td>\n" +
+                                        "          <td>" + data[n]["Title"] + "</td>\n" +
+                                        "          <td>" + data[n]["DOI"] + "</td>\n" +
+                                        "          <td>" + data[n]["keywords"] + "</td>\n" +
+                                        "          <td>" + data[n]["abstract"] + "</td>\n" +
+                                        "          <td>" + data[n]["summary"] + "</td>\n" +
+                                        "          <td>" + data[n]["risk substance category"] + "</td>\n" +
+                                        "          <td>" + data[n]["research category"] + "</td>\n" +
+                                        "          <td>" + data[n]["publication date"] + "</td>\n" +
+                                        "        </tr>";
+                                } else {
+                                    var row_data=data[n][sel_text].toString();
+                                    var reg=new RegExp(input_text.toString(),'i');
+                                    if(row_data.match(reg)){
+                                        table += "     <tr>\n" +
+                                            "          <td>" + data[n]["PMID"] + "</td>\n" +
+                                            "          <td>" + data[n]["Title"] + "</td>\n" +
+                                            "          <td>" + data[n]["DOI"] + "</td>\n" +
+                                            "          <td>" + data[n]["keywords"] + "</td>\n" +
+                                            "          <td>" + data[n]["abstract"] + "</td>\n" +
+                                            "          <td>" + data[n]["summary"] + "</td>\n" +
+                                            "          <td>" + data[n]["risk substance category"] + "</td>\n" +
+                                            "          <td>" + data[n]["research category"] + "</td>\n" +
+                                            "          <td>" + data[n]["publication date"] + "</td>\n" +
+                                            "        </tr>";
+                                    }
+                                }
+                            }
+                            table += "</tbody>";
+                            table += "</table>";
+                            $("#it9yj").append(table);
+                        }
+                        function RiskSubstance(data){
+                            var table = "<table class=\"qgg-table\">";
+                            for (var n = 0; n < data.length; n++) {
+                                if (n === 0) {
+                                    table += "<thead>\n" +
+                                        "        <tr>\n" +
+                                        "          <th>risk substance</th>\n" +
+                                        "          <th>risk substance category</th>\n" +
+                                        "          <th>PMID</th>\n" +
+                                        "        </tr>\n" +
+                                        "    </thead>";
+                                    table += "<tbody>";
+                                } else {
+                                    var row_data=data[n][sel_text].toString();
+                                    var reg=new RegExp(input_text.toString(),'i');
+                                    if(row_data.match(reg)) {
+                                        table += "     <tr>\n" +
+                                            "          <td>" + data[n]["risk substance"] + "</td>\n" +
+                                            "          <td>" + data[n]["risk substance category"] + "</td>\n" +
+                                            "          <td>" + data[n]["PMID"] + "</td>\n" +
+                                            "        </tr>";
+                                    }
+                                }
+                            }
+                            table += "</tbody>";
+                            table += "</table>";
+                            $("#it9yj").append(table);
+                        }
+                        function MRLsSearch(data){
+                            var table = "<table class=\"qgg-table\">";
+                            for (var n = 0; n < data.length; n++) {
+                                if (n === 0) {
+                                    table += "<thead>\n" +
+                                        "        <tr>\n" +
+                                        "          <th>Country or organization</th>\n" +
+                                        "          <th>Pesticides</th>\n" +
+                                        "          <th>MRLs(ppm)</th>\n" +
+                                        "        </tr>\n" +
+                                        "    </thead>";
+                                    table += "<tbody>";
+                                } else {
+                                    var row_data=data[n][sel_text].toString();
+                                    var reg=new RegExp(input_text.toString(),'i');
+                                    if(row_data.match(reg)) {
+                                        table += "     <tr>\n" +
+                                            "          <td>" + data[n]["Country or organization"] + "</td>\n" +
+                                            "          <td>" + data[n]["Pesticides"] + "</td>\n" +
+                                            "          <td>" + data[n]["MRLs(ppm)"] + "</td>\n" +
+                                            "        </tr>";
+                                    }
+                                }
+                            }
+                            table += "</tbody>";
+                            table += "</table>";
+                            $("#it9yj").append(table);
+                        }
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+</header>
+<section class="flex-sect" id="iabgj">
+    <div class="gjs-row" id="i2z5f">
+        <div class="gjs-cell" id="it9yj">
+            <nav id="lulu">
+                <div class="table-item" id="iga5u">Pubmed Research Data</div>
+                <div class="table-item" id="i29g6">Risk Substance Data</div>
+                <div class="table-item" id="m2rs8">MRL standards</div>
+            </nav>
+            <script type="text/javascript">
+                $("#iga5u").css("text-decoration","underline");
+                $("#i29g6").css("text-decoration","unset");
+                $("#m2rs8").css("text-decoration","unset");
+                $.ajax({
+                    url: "neo4j_data/data.json",
+                    dataType: "json",
+                }).done(successFunction);
+                SwitchSelectToPubmed();
+                $("#iga5u").click(function () {
+                    SwitchSelectToPubmed();
+                    if($("#it9yj").has("table").length){
+                        $("table").remove();
+                        console.log("Switch Pubmed Research Data");
+                    }
+                    $("#iga5u").css("text-decoration","underline");
+                    $("#i29g6").css("text-decoration","unset");
+                    $("#m2rs8").css("text-decoration","unset");
+                    $.ajax({
+                        url: "neo4j_data/data.json",
+                        dataType: "json",
+                    }).done(successFunction);
+                });
+                function successFunction(data) {
+                    var table = "<table class=\"qgg-table\">";
+                    for (var n = 0; n < data.length; n++) {
+                        if (n === 0) {
+                            table += "<thead>\n" +
+                                "        <tr>\n" +
+                                "          <th>PMID</th>\n" +
+                                "          <th>Title</th>\n" +
+                                "          <th>DOI</th>\n" +
+                                "          <th>keywords</th>\n" +
+                                "          <th>abstract</th>\n" +
+                                "          <th>summary</th>\n" +
+                                "          <th>risk substance category</th>\n" +
+                                "          <th>research category</th>\n" +
+                                "          <th>publication date</th>\n" +
+                                "        </tr>\n" +
+                                "    </thead>";
+                            table += "<tbody>";
+                            table += "     <tr>\n" +
+                                "          <td>" + data[n]["PMID"] + "</td>\n" +
+                                "          <td>" + data[n]["Title"] + "</td>\n" +
+                                "          <td>" + data[n]["DOI"] + "</td>\n" +
+                                "          <td>" + data[n]["keywords"] + "</td>\n" +
+                                "          <td>" + data[n]["abstract"] + "</td>\n" +
+                                "          <td>" + data[n]["summary"] + "</td>\n" +
+                                "          <td>" + data[n]["risk substance category"] + "</td>\n" +
+                                "          <td>" + data[n]["research category"] + "</td>\n" +
+                                "          <td>" + data[n]["publication date"] + "</td>\n" +
+                                "        </tr>";
+                        } else {
+                            table += "     <tr>\n" +
+                                "          <td>" + data[n]["PMID"] + "</td>\n" +
+                                "          <td>" + data[n]["Title"] + "</td>\n" +
+                                "          <td>" + data[n]["DOI"] + "</td>\n" +
+                                "          <td>" + data[n]["keywords"] + "</td>\n" +
+                                "          <td>" + data[n]["abstract"] + "</td>\n" +
+                                "          <td>" + data[n]["summary"] + "</td>\n" +
+                                "          <td>" + data[n]["risk substance category"] + "</td>\n" +
+                                "          <td>" + data[n]["research category"] + "</td>\n" +
+                                "          <td>" + data[n]["publication date"] + "</td>\n" +
+                                "        </tr>";
+                        }
+                    }
+                    table += "</tbody>";
+                    table += "</table>";
+                    $("#it9yj").append(table);
+                }
+                $("#i29g6").click(function () {
+                    SwitchSelectToRisk();
+                    if($("#it9yj").has("table").length){
+                        $("table").remove();
+                        console.log("Switch Risk Substance Data");
+                    }
+                    $("#iga5u").css("text-decoration","unset");
+                    $("#i29g6").css("text-decoration","underline");
+                    $("#m2rs8").css("text-decoration","unset");
+                    $.ajax({
+                        url: "neo4j_data/risk_substance.json",
+                        dataType: "json",
+                    }).done(successFunction);
+                    function successFunction(data) {
+                        var table = "<table class=\"qgg-table\">";
+                        for (var n = 0; n < data.length; n++) {
+                            if (n === 0) {
+                                table += "<thead>\n" +
+                                    "        <tr>\n" +
+                                    "          <th>risk substance</th>\n" +
+                                    "          <th>risk substance category</th>\n" +
+                                    "          <th>PMID</th>\n" +
+                                    "        </tr>\n" +
+                                    "    </thead>";
+                                table += "<tbody>";
+                            } else {
+                                table += "     <tr>\n" +
+                                    "          <td>" + data[n]["risk substance"] + "</td>\n" +
+                                    "          <td>" + data[n]["risk substance category"] + "</td>\n" +
+                                    "          <td>" + data[n]["PMID"] + "</td>\n" +
+                                    "        </tr>";
+                            }
+                        }
+                        table += "</tbody>";
+                        table += "</table>";
+                        $("#it9yj").append(table);
+                    }
+                });
+                $("#m2rs8").click(function () {
+                    SwitchSelectToMRL();
+                    if($("#it9yj").has("table").length){
+                        $("table").remove();
+                        console.log("Switch MRL standards");
+                    }
+                    $("#iga5u").css("text-decoration","unset");
+                    $("#i29g6").css("text-decoration","unset");
+                    $("#m2rs8").css("text-decoration","underline");
+                    $.ajax({
+                        url: "neo4j_data/MRL_standards.json",
+                        dataType: "json",
+                    }).done(successFunction);
+                    function successFunction(data) {
+                        var table = "<table class=\"qgg-table\">";
+                        for (var n = 0; n < data.length; n++) {
+                            if (n === 0) {
+                                table += "<thead>\n" +
+                                    "        <tr>\n" +
+                                    "          <th>Country or organization</th>\n" +
+                                    "          <th>Pesticides</th>\n" +
+                                    "          <th>MRLs(ppm)</th>\n" +
+                                    "        </tr>\n" +
+                                    "    </thead>";
+                                table += "<tbody>";
+                            } else {
+                                table += "     <tr>\n" +
+                                    "          <td>" + data[n]["Country or organization"] + "</td>\n" +
+                                    "          <td>" + data[n]["Pesticides"] + "</td>\n" +
+                                    "          <td>" + data[n]["MRLs(ppm)"] + "</td>\n" +
+                                    "        </tr>";
+                            }
+                        }
+                        table += "</tbody>";
+                        table += "</table>";
+                        $("#it9yj").append(table);
+                    }
+                });
+                function SwitchSelectToPubmed(){
+                    $("#i4bg2").empty();
+                    $("#i4bg2").append("<option value=\"PMID\">PMID</option>");
+                    $("#i4bg2").append("<option value=\"Title\">Title</option>");
+                    $("#i4bg2").append("<option value=\"DOI\">DOI</option>");
+                    $("#i4bg2").append("<option value=\"keywords\">keywords</option>");
+                    $("#i4bg2").append("<option value=\"abstract\">abstract</option>");
+                    $("#i4bg2").append("<option value=\"summary\">summary</option>");
+                    $("#i4bg2").append("<option value=\"risk substance category\">risk substance category</option>");
+                    $("#i4bg2").append("<option value=\"research category\">research category</option>");
+                }
+                function SwitchSelectToRisk(){
+                    $("#i4bg2").empty();
+                    $("#i4bg2").append("<option value=\"risk substance\">risk substance</option>");
+                    $("#i4bg2").append("<option value=\"risk substance category\">risk substance category</option>");
+                    $("#i4bg2").append("<option value=\"PMID\">PMID</option>");
+                }
+                function SwitchSelectToMRL(){
+                    $("#i4bg2").empty();
+                    $("#i4bg2").append("<option value=\"Country or organization\">Country or organization</option>");
+                    $("#i4bg2").append("<option value=\"Pesticides\">Pesticides</option>");
+                }
+            </script>
+        </div>
+    </div>
+</section>
+<footer class="footer-under" id="ie50gi">
+    <div class="container-width">
+    </div>
+    <div class="copyright" id="ipcl0x">
+        <div class="container-width">
+            <div class="made-with">
+                Copyright © 2022.
+                <a href="https://wpengxs.cn//">WPENG</a>
+                All Rights Reserved.
+            </div>
+            <div class="clearfix">
+            </div>
+        </div>
+    </div>
+</footer>
+</body>

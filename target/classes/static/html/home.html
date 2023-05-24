@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>TRSRD</title>
+    <link rel="icon" href="../img/tea-icon.png"/>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../css/style.css">
+    <script type="text/javascript" src="../js/jquery-1.9.1.min.js"></script>
+</head>
+<body id="ikgm">
+<header class="header-banner" id="igye">
+    <div class="container-width" id="iiqv">
+        <div class="logo-container" id="i8ie">
+            <div class="logo" id="i37r">TRSRD</div>
+        </div>
+        <nav class="menu" id="iheg">
+            <div class="menu-item" id="is9j"><a href="about">ABOUT</a></div>
+            <div class="menu-item" id="i7z3vb"><a href="download">DOWNLOAD</a></div>
+            <div class="menu-item" id="iqy8be"><a href="browse">BROWSE</a></div>
+            <div class="menu-item" id="ipqx"><a href="search">SEARCH</a></div>
+            <div class="menu-item" id="i0mf9"><a href="home" id="text-underline">HOME</a></div>
+        </nav>
+        <div class="clearfix"></div>
+        <div class="lead-title" id="i3wlc">Tea Risk Substance Research Database</div>
+        <div class="sub-lead-title" id="i0vne">TRSRD is a database of research on risk substances in tea.
+            This database summarizes the knowledge related to tea risk substances and their research.
+            Using this database, you can learn about the risk substances to be studied and their corresponding related studies by means of knowledge mapping,
+            and also use the content of research articles as an entry point to explore the causes of the formation of risk substances in tea.
+        </div>
+    </div>
+</header>
+<section class="flex-sect" id="iabgj">
+    <div class="gjs-row" id="i2z5f">
+        <div class="gjs-cell" id="it9yj">
+            <div id="ivm78">Database Statistics</div>
+            <div style="padding:10px;">Risk substance category</div>
+            <div id="node_chart" style="height: 400px;width: 400px;display: table;">
+                <div style="display: table-cell;vertical-align: middle;text-align: center">loading...</div>
+            </div>
+            <div style="padding:10px;margin-top: 20px;">Research category</div>
+            <div id="relationship_chart" style="height: 400px;width: 400px;display: table;">
+                <div style="display: table-cell;vertical-align: middle;text-align: center">loading...</div>
+            </div>
+        </div>
+        <div class="gjs-cell" id="ix5is">
+            <div id="i4nfy">Overview</div>
+            <div id="i6jd3">TRSRD is a database of research on risk substances in tea.
+                It presents various studies on tea risk substances and the types of papers in which they have been studied,
+                while linking these relationships by means of knowledge mapping.
+                It provides data support and theoretical basis for high-quality tea development.
+                Here you can search for studies that have information about risk substances in tea on Pubmed,
+                the risk substances that appear in the articles, and the type of study the article is from.
+                The data in the database is presented visually by means of a knowledge graph,
+                and you can view the pictorial relationships between them on the search page.
+                On the browse page, you can see all the data and perform a keyword search.
+                Also, all the code and database files can be downloaded on the download page.
+            </div>
+            <div style="padding: 10px 10px 2px;font-size: 26px;border-bottom: 4px solid #8bc66f;">
+                Introduction to database information</div>
+            <div style="padding: 10px;line-height: 1.6;">
+                <ul>
+                    <li>PMID: The index number used for literature search</li>
+                    <li>Title: Title of the paper</li>
+                    <li>DOI: Digital object identifier for the paper</li>
+                    <li>keywords: Keywords for the paper</li>
+                    <li>abstract: Abstract of the paper</li>
+                    <li>summary: Convert abstract into a short summary with key information</li>
+                    <li>risk substance category: Categories of risky substances studied in the article</li>
+                    <li>research category: Categories of article research</li>
+                    <li>risk substance: Risky substances in tea</li>
+                    <li>publication date: Time of publication of papers
+                        (When the publication date is unknown, i.e. the ArticleDate is not available at Pubmed, this is usually caused by an early publication date. )</li>
+                </ul>
+            </div>
+            <div style="padding: 10px 10px 2px;font-size: 26px;border-bottom: 4px solid #8bc66f;">
+                What can users do in TRSRD</div>
+            <div style="padding: 10px;line-height: 1.6;">
+                <ul>
+                    <li>The Home page is mainly a general description of the site and data display.</li>
+                    <li>If you need to query data through the visualization interface, please click Search page, select the type you need to search in the type selection box on the top left, and enter the keyword query (Note: Only "ONLY MATCH p=()-[]-() RETURN p" is allowed when using Cypher syntax query). ", it is forbidden to use any syntax that alters the data). After querying, click on one of the objects to display its details, and click on the PMID to display the main information of the paper (including the abstract).</li>
+                    <li>The Browse page allows you to view all data in tabular form and also supports you to search by keywords.</li>
+                    <li>On the Download page you can download all data (in different formats) and papers from the website.</li>
+                    <li>The About page allows you to view the links to the website and the development techniques, as well as a list of tea-related standards from different countries and organizations.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<footer class="footer-under" id="ie50gi">
+    <div class="container-width"></div>
+    <div class="copyright" id="ipcl0x">
+        <div class="container-width">
+            <div class="made-with">
+                Copyright © 2022.
+                <a href="https://wpengxs.cn//">WPENG</a>
+                All Rights Reserved.
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</footer>
+</body>
+<script type="text/javascript" src="../js/echarts.min.js"></script>
+<script type="text/javascript">
+    var node_chart=document.getElementById("node_chart");
+    node_chart.innerHTML='';
+    var myChart=echarts.init(node_chart);
+    var option;
+    option = {
+        legend: {
+            top: 'bottom'
+        },
+        toolbox: {
+            show: true,
+            feature: {
+                mark: { show: true },
+                dataView: { show: false, readOnly: false },
+                restore: { show: true },
+                saveAsImage: { show: true }
+            }
+        },
+        tooltip: {
+            trigger: 'item',
+            axisPointer: {
+                type: 'shadow'
+            },
+            formatter: '{a} <br/>{b} : {c} <br/>percentage : {d}%' //{a}（系列名称），{b}（数据项名称），{c}（数值）, {d}（百分比）
+        },
+        series: [
+            {
+                name: 'Risk substance category',
+                type: 'pie',
+                radius: [30, 80],
+                center: ['50%', '50%'],
+                roseType: 'area',
+                itemStyle: {
+                    borderRadius: 4
+                },
+                data: [
+                    { value: 1, name: 'pollutants (comprehensive discussion)' },
+                    { value: 37, name: 'heavy metals' },
+                    { value: 540, name: 'pesticides' },
+                    { value: 134, name: 'environmental pollutants' },
+                    { value: 105, name: 'mycotoxins' },
+                    { value: 15, name: 'microorganisms' },
+                    { value: 34, name: 'radioactive isotopes' },
+                    { value: 7, name: 'plant growth regulators' },
+                    { value: 11, name: 'others' }
+                ]
+            }
+        ]
+    };
+    option && myChart.setOption(option);
+</script>
+<script type="text/javascript">
+    var relationship_chart=document.getElementById("relationship_chart");
+    relationship_chart.innerHTML='';
+    var myChart=echarts.init(relationship_chart);
+    var option;
+    option = {
+        legend: {
+            top: 'bottom'
+        },
+        toolbox: {
+            show: true,
+            feature: {
+                mark: { show: true },
+                dataView: { show: false, readOnly: false },
+                restore: { show: true },
+                saveAsImage: { show: true }
+            }
+        },
+        tooltip: {
+            trigger: 'item',
+            axisPointer: {
+                type: 'shadow'
+            },
+            formatter: '{a} <br/>{b} : {c} <br/>percentage : {d}%' //{a}（系列名称），{b}（数据项名称），{c}（数值）, {d}（百分比）
+        },
+        series: [
+            {
+                name: 'Research category',
+                type: 'pie',
+                radius: [30, 80],
+                center: ['50%', '50%'],
+                roseType: 'area',
+                itemStyle: {
+                    borderRadius: 4
+                },
+                data: [
+                    { value: 4, name: 'review' },
+                    { value: 122, name: 'safety evaluation/risk assessment' },
+                    { value: 16, name: 'prevention and control measures' },
+                    { value: 252, name: 'detection methods' },
+                    { value: 83, name: 'residual/pollution situation' },
+                    { value: 76, name: 'data analysis / data measurement' }
+                ]
+            }
+        ]
+    };
+    option && myChart.setOption(option);
+</script>
+</html>
